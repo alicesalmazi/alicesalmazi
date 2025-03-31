@@ -3,7 +3,7 @@
 ## 🌱 Sobre mim
 
 Sou **Técnica em Informática** formada pelo **Instituto Federal de Educação, Ciência e Tecnologia de Cubatão (IFSP)**, com conclusão em 2024, e atualmente estou cursando **Engenharia de Computação** na **Universidade Adventista de São Paulo (UNASP)**, no 1º semestre.  
-Atuo como **Analista de Dados** na **AICOM (Agência Integrada de Comunicação e Marketing) do UNASP**, onde apoio estratégias de marketing utilizando ferramentas como Google Analytics, CRM, PowerBI, planilhas e SQL básico.
+Atuo como **Analista de Dados** na **AICOM (Agência Integrada de Comunicação e Marketing) do UNASP**, com foco em Growth Ops, utilizando dados para desenvolver estratégias de marketing e impulsionar o crescimento institucional.
 
 ## 🏄‍♀️ Hobbies e Interesses
 

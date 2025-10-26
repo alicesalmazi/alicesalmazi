@@ -3,7 +3,7 @@
 ## 🌱 Sobre mim
 
 Sou **Técnica em Informática** formada pelo **Instituto Federal de Educação, Ciência e Tecnologia de Cubatão (IFSP)**, com conclusão em 2024, e atualmente estou cursando **Engenharia de Computação** na **Universidade Adventista de São Paulo (UNASP)**, no 1º semestre.  
-Atuo como **Analista de Dados** na **AICOM (Agência Integrada de Comunicação e Marketing) do UNASP**, com foco em Growth Ops, utilizando dados para desenvolver estratégias de marketing e impulsionar o crescimento institucional.
+Atualmente, atuo na **Reitoria do UNASP**, integrando o time de TI, com foco em análise de dados e jornada do cliente. Meu trabalho envolve transformar informações em insights que apoiam decisões estratégicas e fortalecem a conexão entre as pessoas e a missão institucional.
 
 ## 🏄‍♀️ Hobbies e Interesses
 
@@ -11,7 +11,7 @@ Nos meus momentos de lazer, sou **surfista**, **lutadora de BJJ (Jiu-Jitsu Brasi
 Amo tecnologia e adoro explorar novas ferramentas e linguagens, sempre em busca de aprender algo novo.
 
 ## 💼 Experiência Profissional
-
+- **Analista de Dados** na Reitoria do UNASP: foco em análise de dados e jornada do cliente.
 - **Analista de Dados** na **AICOM do UNASP**: Análise de dados para estratégias de marketing.
 - **Desenvolvedora Web** na **AICOM do UNASP**: Desenvolvimento de projetos web.
 - **Suporte de TI** no **Colégio Adventista de Praia Grande**: Responsável pela manutenção de sistemas, redes e atendimento ao usuário.

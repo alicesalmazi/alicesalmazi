@@ -11,8 +11,8 @@ Nos meus momentos de lazer, sou **surfista**, **lutadora de BJJ (Jiu-Jitsu Brasi
 Amo tecnologia e adoro explorar novas ferramentas e linguagens, sempre em busca de aprender algo novo.
 
 ## 💼 Experiência Profissional
-- **Analista de Dados** na Reitoria do UNASP: foco em análise de dados e jornada do cliente.
-- **Analista de Dados** na **AICOM do UNASP**: Análise de dados para estratégias de marketing.
+- **Analista de BI** na Reitoria do UNASP: foco em análise de dados e jornada do cliente.
+- **Analista de BI** na **AICOM do UNASP**: Análise de dados para estratégias de marketing.
 - **Desenvolvedora Web** na **AICOM do UNASP**: Desenvolvimento de projetos web.
 - **Suporte de TI** no **Colégio Adventista de Praia Grande**: Responsável pela manutenção de sistemas, redes e atendimento ao usuário.
 

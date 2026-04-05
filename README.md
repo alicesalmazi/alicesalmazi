@@ -2,7 +2,7 @@
 
 ## 🌱 Sobre mim
 
-Sou **Técnica em Informática** formada pelo **Instituto Federal de Educação, Ciência e Tecnologia de Cubatão (IFSP)**, com conclusão em 2024, e atualmente estou cursando **Engenharia de Computação** na **Universidade Adventista de São Paulo (UNASP)**, no 1º semestre.  
+Sou **Técnica em Informática** formada pelo **Instituto Federal de Educação, Ciência e Tecnologia de Cubatão (IFSP)**, com conclusão em 2024, e atualmente estou cursando **Engenharia de Computação** na **Universidade Adventista de São Paulo (UNASP)**, no 3º semestre.  
 Atualmente, atuo na **Reitoria do UNASP**, integrando o time de TI, com foco em análise de dados e jornada do cliente. Meu trabalho envolve transformar informações em insights que apoiam decisões estratégicas e fortalecem a conexão entre as pessoas e a missão institucional.
 
 ## 🏄‍♀️ Hobbies e Interesses

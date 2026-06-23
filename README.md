@@ -2,8 +2,8 @@
 
 ## 🌱 Sobre mim
 
-Sou **Técnica em Informática** formada pelo **Instituto Federal de Educação, Ciência e Tecnologia de Cubatão (IFSP)**, com conclusão em 2024, e atualmente estou cursando **Engenharia de Computação** na **Universidade Adventista de São Paulo (UNASP)**, no 3º semestre.  
-Atualmente, atuo na **Reitoria do UNASP**, integrando o time de TI, com foco em análise de dados e jornada do cliente. Meu trabalho envolve transformar informações em insights que apoiam decisões estratégicas e fortalecem a conexão entre as pessoas e a missão institucional.
+Sou **Técnica em Informática** formada pelo **Instituto Federal de Educação, Ciência e Tecnologia de Cubatão (IFSP)**, com conclusão em 2024, e atualmente estou cursando **Engenharia de Computação** na **Universidade Adventista de São Paulo (UNASP)**, no 4º semestre.  
+Atualmente, atuo na **Reitoria do UNASP** como Líder da vertical de BI no time de TI. Minha missão é transformar informações em insights estratégicos que apoiam a tomada de decisão e fortalecem a conexão entre as pessoas e a missão institucional.
 
 ## 🏄‍♀️ Hobbies e Interesses
 
